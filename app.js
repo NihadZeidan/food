@@ -28,9 +28,9 @@ function prefrance() {
         alert('You can take a look on the Sweets or Pizza pages')
     }
 
-   
+
 }
-prefrance();     
+prefrance();
 
 
 function rating() {
