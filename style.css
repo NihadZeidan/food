@@ -1,0 +1,49 @@
+
+*{ font-style: oblique; text-decoration-line: none; text-decoration-color: blanchedalmond; color:blanchedalmond}
+
+body { margin: 25px; background-image:url("https://i.pinimg.com/originals/16/0e/30/160e30439a507e50a0e87eb526af8a57.jpg");}
+
+
+body header h1 
+{font-style:oblique; text-align:center; font-size: 70px; margin:0px;}
+
+body header p 
+{font-style:oblique; text-align: center; font-size: 30px; margin: 0px;} 
+
+body header nav{
+    text-align: center;
+}
+
+nav ul li {
+font-size: 25px; 
+list-style-type: none; 
+block-size: 20Px;
+padding-inline: 50px;
+background-color: rgb(8, 6, 10);
+text-align: center;
+display: inline-table;
+}
+
+ul li a {
+    text-decoration:none;
+    color:blanchedalmond; 
+    text-align: center;  
+    vertical-align: center; 
+}
+
+ body main h3 
+ { padding-left: 50px; font-size: 40px;}
+
+
+ body main img {
+    display:inline-block;
+    width: 500px; height: 370px;
+    margin-left: 150px; 
+}
+
+ body main p 
+ { text-align:center;font-size: 30px; }
+
+body footer {
+    text-align: left; font-size: 10px;
+}
